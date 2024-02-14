@@ -3,7 +3,7 @@ mkdir -p ./pbr
 cd ./pbr
 
 # AS4809 BGP
-wget --no-check-certificate -c -O CN.txt https://github.com/mayaxcn/china-ip-list/blob/master/chn_ip.txt
+wget --no-check-certificate -c -O CN.txt https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chn_ip.txt
 
 {
 echo "/ip firewall address-list"
