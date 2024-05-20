@@ -7085,8 +7085,6 @@ add list=CN address=103.104.104.0 comment=AS4809
 add list=CN address=103.104.107.255 comment=AS4809
 add list=CN address=103.104.152.0 comment=AS4809
 add list=CN address=103.104.155.255 comment=AS4809
-add list=CN address=103.104.168.0 comment=AS4809
-add list=CN address=103.104.171.255 comment=AS4809
 add list=CN address=103.104.188.0 comment=AS4809
 add list=CN address=103.104.191.255 comment=AS4809
 add list=CN address=103.104.198.0 comment=AS4809
