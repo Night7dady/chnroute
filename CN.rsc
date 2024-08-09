@@ -8233,8 +8233,6 @@ add list=CN address=103.183.122.0 comment=AS4809
 add list=CN address=103.183.123.255 comment=AS4809
 add list=CN address=103.183.124.0 comment=AS4809
 add list=CN address=103.183.125.255 comment=AS4809
-add list=CN address=103.184.44.0 comment=AS4809
-add list=CN address=103.184.45.255 comment=AS4809
 add list=CN address=103.184.46.0 comment=AS4809
 add list=CN address=103.184.47.255 comment=AS4809
 add list=CN address=103.184.60.0 comment=AS4809
