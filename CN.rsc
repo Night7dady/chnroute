@@ -12519,6 +12519,8 @@ add list=CN address=160.191.0.0 comment=AS4809
 add list=CN address=160.191.1.255 comment=AS4809
 add list=CN address=160.191.104.0 comment=AS4809
 add list=CN address=160.191.105.255 comment=AS4809
+add list=CN address=160.191.110.0 comment=AS4809
+add list=CN address=160.191.111.255 comment=AS4809
 add list=CN address=160.202.60.0 comment=AS4809
 add list=CN address=160.202.63.255 comment=AS4809
 add list=CN address=160.202.148.0 comment=AS4809
