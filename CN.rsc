@@ -10473,8 +10473,6 @@ add list=CN address=111.72.0.0 comment=AS4809
 add list=CN address=111.79.255.255 comment=AS4809
 add list=CN address=111.85.0.0 comment=AS4809
 add list=CN address=111.85.255.255 comment=AS4809
-add list=CN address=111.91.192.0 comment=AS4809
-add list=CN address=111.91.223.255 comment=AS4809
 add list=CN address=111.92.240.0 comment=AS4809
 add list=CN address=111.92.243.255 comment=AS4809
 add list=CN address=111.92.248.0 comment=AS4809
