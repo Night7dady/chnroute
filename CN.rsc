@@ -14075,6 +14075,8 @@ add list=CN address=202.127.12.0 comment=AS4809
 add list=CN address=202.127.15.255 comment=AS4809
 add list=CN address=202.127.16.0 comment=AS4809
 add list=CN address=202.127.31.255 comment=AS4809
+add list=CN address=202.127.40.0 comment=AS4809
+add list=CN address=202.127.47.255 comment=AS4809
 add list=CN address=202.127.48.0 comment=AS4809
 add list=CN address=202.127.63.255 comment=AS4809
 add list=CN address=202.127.112.0 comment=AS4809
