@@ -6605,8 +6605,12 @@ add list=CN address=103.89.224.0 comment=AS4809
 add list=CN address=103.89.227.255 comment=AS4809
 add list=CN address=103.89.228.0 comment=AS4809
 add list=CN address=103.89.231.255 comment=AS4809
+add list=CN address=103.90.51.0 comment=AS4809
+add list=CN address=103.90.51.255 comment=AS4809
 add list=CN address=103.90.52.0 comment=AS4809
 add list=CN address=103.90.55.255 comment=AS4809
+add list=CN address=103.90.56.0 comment=AS4809
+add list=CN address=103.90.57.255 comment=AS4809
 add list=CN address=103.90.92.0 comment=AS4809
 add list=CN address=103.90.95.255 comment=AS4809
 add list=CN address=103.90.100.0 comment=AS4809
