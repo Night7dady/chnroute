@@ -915,8 +915,6 @@ add list=CN address=43.230.68.0 comment=AS4809
 add list=CN address=43.230.71.255 comment=AS4809
 add list=CN address=43.230.72.0 comment=AS4809
 add list=CN address=43.230.75.255 comment=AS4809
-add list=CN address=43.230.84.0 comment=AS4809
-add list=CN address=43.230.87.255 comment=AS4809
 add list=CN address=43.230.124.0 comment=AS4809
 add list=CN address=43.230.127.255 comment=AS4809
 add list=CN address=43.230.136.0 comment=AS4809
@@ -5421,8 +5419,6 @@ add list=CN address=103.49.96.0 comment=AS4809
 add list=CN address=103.49.99.255 comment=AS4809
 add list=CN address=103.49.108.0 comment=AS4809
 add list=CN address=103.49.111.255 comment=AS4809
-add list=CN address=103.49.128.0 comment=AS4809
-add list=CN address=103.49.131.255 comment=AS4809
 add list=CN address=103.49.176.0 comment=AS4809
 add list=CN address=103.49.179.255 comment=AS4809
 add list=CN address=103.49.180.0 comment=AS4809
@@ -7731,8 +7727,6 @@ add list=CN address=103.144.70.0 comment=AS4809
 add list=CN address=103.144.71.255 comment=AS4809
 add list=CN address=103.144.72.0 comment=AS4809
 add list=CN address=103.144.73.255 comment=AS4809
-add list=CN address=103.144.108.0 comment=AS4809
-add list=CN address=103.144.109.255 comment=AS4809
 add list=CN address=103.144.136.0 comment=AS4809
 add list=CN address=103.144.137.255 comment=AS4809
 add list=CN address=103.144.148.0 comment=AS4809
@@ -12563,6 +12557,12 @@ add list=CN address=161.248.84.0 comment=AS4809
 add list=CN address=161.248.85.255 comment=AS4809
 add list=CN address=161.248.92.0 comment=AS4809
 add list=CN address=161.248.93.255 comment=AS4809
+add list=CN address=161.248.108.0 comment=AS4809
+add list=CN address=161.248.109.255 comment=AS4809
+add list=CN address=161.248.110.0 comment=AS4809
+add list=CN address=161.248.111.255 comment=AS4809
+add list=CN address=161.248.112.0 comment=AS4809
+add list=CN address=161.248.113.255 comment=AS4809
 add list=CN address=162.14.0.0 comment=AS4809
 add list=CN address=162.14.255.255 comment=AS4809
 add list=CN address=162.105.0.0 comment=AS4809
