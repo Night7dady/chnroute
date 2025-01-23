@@ -6999,8 +6999,6 @@ add list=CN address=103.100.248.0 comment=AS4809
 add list=CN address=103.100.251.255 comment=AS4809
 add list=CN address=103.100.252.0 comment=AS4809
 add list=CN address=103.100.255.255 comment=AS4809
-add list=CN address=103.101.4.0 comment=AS4809
-add list=CN address=103.101.7.255 comment=AS4809
 add list=CN address=103.101.8.0 comment=AS4809
 add list=CN address=103.101.11.255 comment=AS4809
 add list=CN address=103.101.12.0 comment=AS4809
