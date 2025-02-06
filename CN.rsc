@@ -12633,6 +12633,8 @@ add list=CN address=163.53.188.0 comment=AS4809
 add list=CN address=163.53.191.255 comment=AS4809
 add list=CN address=163.53.240.0 comment=AS4809
 add list=CN address=163.53.243.255 comment=AS4809
+add list=CN address=163.61.62.0 comment=AS4809
+add list=CN address=163.61.63.255 comment=AS4809
 add list=CN address=163.125.0.0 comment=AS4809
 add list=CN address=163.125.255.255 comment=AS4809
 add list=CN address=163.142.0.0 comment=AS4809
