@@ -922,12 +922,6 @@ add list=CN address=43.230.139.255 comment=AS4809
 add list=CN address=43.230.220.0 comment=AS4809
 add list=CN address=43.230.223.255 comment=AS4809
 add list=CN address=43.230.224.0 comment=AS4809
-add list=CN address=43.230.227.255 comment=AS4809
-add list=CN address=43.230.228.0 comment=AS4809
-add list=CN address=43.230.231.255 comment=AS4809
-add list=CN address=43.230.232.0 comment=AS4809
-add list=CN address=43.230.235.255 comment=AS4809
-add list=CN address=43.230.236.0 comment=AS4809
 add list=CN address=43.230.239.255 comment=AS4809
 add list=CN address=43.230.240.0 comment=AS4809
 add list=CN address=43.230.243.255 comment=AS4809
