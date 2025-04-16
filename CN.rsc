@@ -12651,6 +12651,14 @@ add list=CN address=163.227.34.0 comment=AS4809
 add list=CN address=163.227.35.255 comment=AS4809
 add list=CN address=163.227.40.0 comment=AS4809
 add list=CN address=163.227.41.255 comment=AS4809
+add list=CN address=163.227.74.0 comment=AS4809
+add list=CN address=163.227.75.255 comment=AS4809
+add list=CN address=163.227.76.0 comment=AS4809
+add list=CN address=163.227.77.255 comment=AS4809
+add list=CN address=163.227.78.0 comment=AS4809
+add list=CN address=163.227.79.255 comment=AS4809
+add list=CN address=163.227.80.0 comment=AS4809
+add list=CN address=163.227.81.255 comment=AS4809
 add list=CN address=163.228.0.0 comment=AS4809
 add list=CN address=163.228.255.255 comment=AS4809
 add list=CN address=164.52.0.0 comment=AS4809
