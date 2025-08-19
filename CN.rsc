@@ -7839,8 +7839,6 @@ add list=CN address=103.152.56.0 comment=AS4809
 add list=CN address=103.152.57.255 comment=AS4809
 add list=CN address=103.152.76.0 comment=AS4809
 add list=CN address=103.152.77.255 comment=AS4809
-add list=CN address=103.152.98.0 comment=AS4809
-add list=CN address=103.152.99.255 comment=AS4809
 add list=CN address=103.152.112.0 comment=AS4809
 add list=CN address=103.152.113.255 comment=AS4809
 add list=CN address=103.152.120.0 comment=AS4809
