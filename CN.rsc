@@ -7823,8 +7823,6 @@ add list=CN address=103.151.216.0 comment=AS4809
 add list=CN address=103.151.217.255 comment=AS4809
 add list=CN address=103.151.228.0 comment=AS4809
 add list=CN address=103.151.229.255 comment=AS4809
-add list=CN address=103.152.14.0 comment=AS4809
-add list=CN address=103.152.15.255 comment=AS4809
 add list=CN address=103.152.24.0 comment=AS4809
 add list=CN address=103.152.25.255 comment=AS4809
 add list=CN address=103.152.28.0 comment=AS4809
