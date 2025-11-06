@@ -12035,6 +12035,8 @@ add list=CN address=138.252.96.0 comment=AS4809
 add list=CN address=138.252.97.255 comment=AS4809
 add list=CN address=138.252.118.0 comment=AS4809
 add list=CN address=138.252.119.255 comment=AS4809
+add list=CN address=138.252.162.0 comment=AS4809
+add list=CN address=138.252.163.255 comment=AS4809
 add list=CN address=139.5.56.0 comment=AS4809
 add list=CN address=139.5.59.255 comment=AS4809
 add list=CN address=139.5.60.0 comment=AS4809
