@@ -7891,8 +7891,6 @@ add list=CN address=103.154.164.0 comment=AS4809
 add list=CN address=103.154.165.255 comment=AS4809
 add list=CN address=103.154.168.0 comment=AS4809
 add list=CN address=103.154.169.255 comment=AS4809
-add list=CN address=103.154.242.0 comment=AS4809
-add list=CN address=103.154.243.255 comment=AS4809
 add list=CN address=103.155.14.0 comment=AS4809
 add list=CN address=103.155.15.255 comment=AS4809
 add list=CN address=103.155.16.0 comment=AS4809
