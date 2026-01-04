@@ -13227,6 +13227,8 @@ add list=CN address=192.144.128.0 comment=AS4809
 add list=CN address=192.144.255.255 comment=AS4809
 add list=CN address=192.197.113.0 comment=AS4809
 add list=CN address=192.197.113.255 comment=AS4809
+add list=CN address=192.232.34.0 comment=AS4809
+add list=CN address=192.232.35.255 comment=AS4809
 add list=CN address=193.112.0.0 comment=AS4809
 add list=CN address=193.112.255.255 comment=AS4809
 add list=CN address=193.119.0.0 comment=AS4809
