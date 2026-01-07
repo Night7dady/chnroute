@@ -7703,8 +7703,6 @@ add list=CN address=103.142.180.0 comment=AS4809
 add list=CN address=103.142.181.255 comment=AS4809
 add list=CN address=103.142.186.0 comment=AS4809
 add list=CN address=103.142.187.255 comment=AS4809
-add list=CN address=103.142.190.0 comment=AS4809
-add list=CN address=103.142.191.255 comment=AS4809
 add list=CN address=103.142.220.0 comment=AS4809
 add list=CN address=103.142.221.255 comment=AS4809
 add list=CN address=103.142.234.0 comment=AS4809
