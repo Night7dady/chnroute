@@ -9643,8 +9643,6 @@ add list=CN address=103.230.96.0 comment=AS4809
 add list=CN address=103.230.99.255 comment=AS4809
 add list=CN address=103.230.110.0 comment=AS4809
 add list=CN address=103.230.111.255 comment=AS4809
-add list=CN address=103.230.128.0 comment=AS4809
-add list=CN address=103.230.129.255 comment=AS4809
 add list=CN address=103.230.196.0 comment=AS4809
 add list=CN address=103.230.199.255 comment=AS4809
 add list=CN address=103.230.200.0 comment=AS4809
